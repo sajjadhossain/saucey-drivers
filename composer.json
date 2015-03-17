@@ -1,5 +1,5 @@
 {
-    "name": "sajjadhossain/saucey-drivers",
+    "name": "saucey/drivers",
     "type": "package",
     "description": "This is a collection of drivers for the saucey test suite.",
     "keywords": ["behat", "mink", "php", "chromedriver", "selenium"],
@@ -14,7 +14,7 @@
         {
             "type": "package",
             "package": {
-                "name": "sajjadhossain/saucey-drivers",
+                "name": "saucey/drivers",
                 "version": "master",
                 "source": {
                     "url": "git://github.com/sajjadhossain/saucey-drivers.git",
@@ -23,7 +23,7 @@
                 },
                 "autoload": {
                     "psr-0" : {
-                        "sajjadhossain\\saucey-drivers" : "src"
+                        "saucey\\drivers" : "src"
                     }
                 }
             }
