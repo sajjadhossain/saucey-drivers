@@ -1,6 +1,6 @@
 {
     "name": "sajjadhossain/saucey-drivers",
-    "type": "library",
+    "type": "package",
     "description": "This is a collection of drivers for the saucey test suite.",
     "keywords": ["behat", "mink", "php", "chromedriver", "selenium"],
     "homepage": "http://saucey.io",
@@ -28,5 +28,5 @@
                 }
             }
         }
-    ],
+    ]
 }
