@@ -1,6 +1,7 @@
 {
     "name": "saucey/drivers",
-    "type": "package",
+    "type": "saucey-drivers",
+    "license": "MIT",
     "description": "This is a collection of drivers for the saucey test suite.",
     "keywords": ["behat", "mink", "php", "chromedriver", "selenium"],
     "homepage": "http://saucey.io",
